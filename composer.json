@@ -1,0 +1,11 @@
+{
+    "name": "hexlet/code",
+    "description": "hexlet games",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cerxun"
+        }
+    ],
+    "require": {}
+}
